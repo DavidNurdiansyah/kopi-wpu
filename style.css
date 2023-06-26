@@ -91,7 +91,7 @@ body {
     min-height: 100vh;
     display: flex;
     align-items: center;
-    background: url(/img/kopi6.jpg);
+    background: url(img/kopi6.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
